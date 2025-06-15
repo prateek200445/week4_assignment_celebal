@@ -39,7 +39,7 @@ Each concept is explained along with the associated resources and tasks. This ca
 
 ## 👨‍💻 Author
 
-*Prateek Kumar*  
+*Prateek Lachwani*  
 DevOps Intern @ Celebal Technologies  
 📅 June 2025
 
